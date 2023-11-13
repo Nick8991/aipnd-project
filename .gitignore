@@ -101,3 +101,7 @@ ENV/
 .mypy_cache/
 
 .github/**
+
+flowers
+assets
+vgg16_model_0.pth
